@@ -1,10 +1,10 @@
 # 📘 Assignment: Hangman Game Challenge
 
-## 🎯 Objective
+## 🎯 Objetivos
 
 Create a Hangman game where players guess letters to reveal a hidden word before running out of attempts. This assignment will help students practice string manipulation, loops, conditionals, and random selection.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Build the Hangman Game
 
